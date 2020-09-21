@@ -1,0 +1,46 @@
+Perto
+	André
+		PST VERDE 120 
+		PST TAN 120
+---
+Campo Grande
+	Mirian
+		120 Camelback Preto
+	Lucia
+		120 PST Preto
+	Denise
+		240 BP Preto
+		240 BP Verde
+	Paulo
+		120 Coldre Preto
+		120 Coldre Verde
+		120 Coldre Tan
+	Graça
+		240 BP Tan
+		120 BM Tan
+---
+Seropédica
+	Wilton
+	Denise
+		240 BP PT
+		240 BP VD
+	Lucilene
+---
+Taquara
+	Fátima
+---
+Uber
+	Luceni
+		FZ PT 240 - 80
+	Adriana
+		FZ VD 120
+		FZ TAN 120
+	Ângela
+		PST VD 120
+		PST	TAN 120
+	Jaqueline
+		CAMEL VD 120
+		CAMEL TAN 120
+
+
+
